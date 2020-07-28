@@ -97,7 +97,7 @@ public class Task8 {
 
         System.out.println("RESULT    -- " + mulResultMax);
         System.out.print("SLICE     -- ");
-        for (int elem : intArrayMax) System.out.print(elem + "");
+        for (int elem : intArrayMax) System.out.print(elem);
         System.out.println();
         System.out.println("TIME (MS) -- " + TIME);
     }
